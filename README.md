@@ -58,14 +58,6 @@ Devices Used:
 
 ---
 
-📸 Screenshot
-
-> *(Insert your image here)*  
-> Example:  
-> ![Topology Screenshot](./topology.png)
-
----
-
 📂 Files
 
 - `VLAN_Lab.pkt` → The full Cisco Packet Tracer project file
@@ -74,7 +66,7 @@ Devices Used:
 
 🧠 Author
 
-Mohamed Yasser Abdellah**  
+Mohamed Yasser Abdellah 
 Cybersecurity & Network Student | Red Team Track  
 [LinkedIn Profile](https://www.linkedin.com/in/mohamed-yasser-613b77297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
