@@ -22,14 +22,14 @@ Devices Used:
 ```
 
 - VLAN 10 – IT Department:  
-  IP Range: `192.168.10.0/24`
+  IP Range: `192.168.1.0/24`
 
 - VLAN 20 – HR Department:  
-  IP Range: `192.168.20.0/24`
+  IP Range: `192.168.2.0/24`
 
 - Router Sub-Interfaces:
-  - `Gig0/0.10` ➝ IP: `192.168.10.1`, Encapsulation: dot1Q 10
-  - `Gig0/0.20` ➝ IP: `192.168.20.1`, Encapsulation: dot1Q 20
+  - `Gig0/0.10` ➝ IP: `192.168.1.1`, Encapsulation: dot1Q 10
+  - `Gig0/0.20` ➝ IP: `192.168.2.1`, Encapsulation: dot1Q 20
 
 - **Trunk Link** between switches:  
   Configured using FastEthernet ports with `switchport mode trunk`
